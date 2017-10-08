@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+a {
+  text-decoration: none; }
+
+* {
+  box-sizing: border-box; }
+
+body {
+  background: #fbf9f9; }
+
+#body-cont {
+  margin: 0 auto;
+  max-width: 800px;
+  font-family: "Roboto"; }
+
+.typeahead__container {
+  margin: 0 auto;
+  width: 100%; }
+
+#write a {
+  text-decoration: none; }
+#write .div-cont {
+  position: relative;
+  padding: 13px;
+  margin: 13px 0;
+  font-size: 18px;
+  /* box-shadow: 0px 0px 5px 0px #ddd; */
+  /* border: 1px solid #ddd; */
+  transition: all 0.3s ease-in;
+  background: #fff; }
+#write .img-div {
+  display: inline-block;
+  vertical-align: middle; }
+  #write .img-div img {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px; }
+#write .text-div {
+  width: 80%;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 20px; }
+
+.cr-date, .up-date {
+  font-size: 12px;
+  color: #586069 !important; }
+
+.title {
+  color: #1f1f2e; }
+
+.issue-title {
+  padding: 10px;
+  font-size: 25px;
+  border-bottom: 4px solid grey; }
+
+#issue-user-img img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+
+#issue-user-name {
+  padding-left: 25px;
+  font-size: 23px;
+  color: orange;
+  cursor: pointer; }
+
+#issue-dates {
+  padding-left: 26px; }
+
+#issue-userinfo {
+  padding: 10px;
+  background: white; }
+
+#issuebody {
+  background: #fff;
+  margin-top: 10px;
+  padding: 12px; }
+  #issuebody .label {
+    color: white;
+    padding: 0px 7px; }
+
+.issue-id-heading {
+  border-bottom: 1px solid grey;
+  font-size: 23px; }
+
+#user-profile-heading {
+  text-align: center;
+  background: #fff;
+  padding: 5px;
+  box-shadow: 0 0px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 7px 0 rgba(0, 0, 0, 0.19); }
+
+#user-profile {
+  margin-top: 9px;
+  background: #fff;
+  padding: 5px;
+  box-shadow: 0 0px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 7px 0 rgba(0, 0, 0, 0.19); }
+  #user-profile #user-img {
+    width: 25%;
+    padding: 11px; }
+    #user-profile #user-img img {
+      border-radius: 50%;
+      height: 150px;
+      width: 150px; }
+  #user-profile #user-name {
+    text-align: center;
+    font-size: 21px;
+    width: 20%;
+    padding-left: 21px;
+    color: orangered; }
+    #user-profile #user-name .button {
+      color: white;
+      background-color: black;
+      background-image: none;
+      padding: 6px 12px;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 20px;
+      cursor: pointer;
+      border: 1px solid rgba(27, 31, 35, 0.2);
+      border-radius: 0.25em;
+      margin-top: 10px; }
+    #user-profile #user-name .button:hover {
+      color: grey; }
+  #user-profile #detail-user-info {
+    padding-left: 78px;
+    width: 55%; }
+
+#responsive {
+  display: none;
+  margin-top: 10px;
+  background: white;
+  padding: 5px;
+  box-shadow: 0 0px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 7px 0 rgba(0, 0, 0, 0.19); }
+
+@media screen and (max-width: 700px) {
+  #responsive {
+    display: block; }
+
+  #detail-user-info {
+    display: inline;
+    display: none; } }

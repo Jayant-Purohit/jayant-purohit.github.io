@@ -1,0 +1,40 @@
+.carousel{
+    background:  #5b63cf;
+    padding-top: 69px;
+    padding-bottom: 72px;
+}
+
+.carousel .item{
+
+}
+
+.carousel .item img{
+    margin: 0 auto; /* Align slide image horizontally center */
+}
+
+.bs-example{
+}
+
+.carousel{
+    background:  #5b63cf;
+}
+
+.carousel .item{
+    text-align: center;
+    color: white;
+    min-height: 150px;  
+}
+
+.bs-example{
+  
+}
+
+.text-quote{
+
+}
+
+.text-quote p{
+font-size : 20px;
+font-style: italic;
+}
+

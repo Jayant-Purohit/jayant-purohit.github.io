@@ -1,0 +1,25 @@
+{
+  "name": "salient-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayant-Purohit/Template-salient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayant-Purohit/Template-salient/issues"
+  },
+  "homepage": "https://github.com/Jayant-Purohit/Template-salient#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}

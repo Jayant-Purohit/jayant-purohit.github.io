@@ -1,0 +1,206 @@
+@media screen and (max-width: 700px) {
+  .content {
+    max-width: 420px; }
+
+  .a-bt {
+    padding-top: 5px;
+    padding-bottom: 9px;
+    padding-left: 14px;
+    padding-right: 17px; } }
+@media screen and (max-width: 1000px) {
+  .content {
+    max-width: 600px; }
+
+  .a-bt {
+    padding-top: 5px;
+    padding-bottom: 9px;
+    padding-left: 14px;
+    padding-right: 17px; }
+
+  #disp-none {
+    display: none; } }
+@media screen and (max-width: 490px) {
+  .content {
+    max-width: 420px !important; }
+
+  .a-bt {
+    padding-top: 5px;
+    padding-bottom: 9px;
+    padding-left: 14px;
+    padding-right: 17px; }
+
+  .row-coding .a-btn {
+    border: none;
+    font-size: 11px;
+    margin: 2px;
+    padding: 6px;
+    border-radius: 2px;
+    cursor: pointer; }
+
+  #disp-none {
+    display: block; } }
+@media screen and (max-width: 600px) {
+  .navbar-form {
+    border: none !important; }
+
+  .cbg-responsive {
+    border: 2px solid #2ac4ea; }
+
+  .row-responsive {
+    padding-bottom: 10px; }
+
+  .text-quote p {
+    font-size: 22px;
+    font-style: italic;
+    padding: 59px; }
+
+  .responsive-a-logo {
+    width: 60%; }
+
+  .responsive-a-logo img {
+    width: 100%; }
+
+  .a-bt {
+    padding-top: 5px;
+    padding-bottom: 9px;
+    padding-left: 14px;
+    padding-right: 17px; }
+
+  .navbar-brand-after {
+    padding: 0px;
+    padding-left: 0px;
+    padding-top: 10px !important;
+    font-size: 18px;
+    line-height: 20px; }
+
+  .class-social a {
+    color: #707477;
+    text-decoration: none;
+    padding-right: 5px; }
+
+  #tf-menu {
+    padding-top: 10px;
+    transition: all 0.8s;
+    padding-bottom: 10px; }
+
+  .row-top-responsive {
+    padding-top: 10px; }
+
+  .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border: none; }
+
+  .row-p-four {
+    font-size: 15px;
+    margin: 0px; }
+
+  .row-h3-four {
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 7px;
+    color: #444;
+    letter-spacing: 0px;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Open Sans';
+    font-weight: 400; }
+
+  .row-coding {
+    letter-spacing: -1px;
+    text-align: center;
+    padding: 10px 0px 62px;
+    color: white; }
+
+  .row-coding h2 {
+    font-size: 21px;
+    line-height: 8px;
+    display: block; }
+
+  .row-coding p {
+    opacity: 1;
+    padding-top: 0px;
+    font-size: 14px;
+    line-height: 24px;
+    font-family: 'Open Sans';
+    font-weight: 300;
+    padding-bottom: 1px; }
+
+  .a-btn {
+    border: none;
+    margin: 5px;
+    padding: 7px;
+    border-radius: 2px;
+    cursor: pointer; }
+
+  .work-heading-div h2 {
+    font-size: 14px;
+    line-height: 25px; }
+
+  .navbar-inverse .navbar-toggle {
+    border: none; }
+
+  .navbar-default .navbar-toggle {
+    border: none; }
+
+  .row-padding {
+    padding-top: 86px; } }
+@media screen and (max-width: 500px) {
+  .parallax {
+    padding-top: 5px;
+    min-height: 243px;
+    margin-top: 43px; }
+
+  .cover {
+    padding-top: 73px;
+    padding-bottom: 33px; }
+    .cover h2 {
+      font-size: 19px;
+      line-height: 28px; }
+    .cover p {
+      line-height: 17px;
+      font-weight: 300;
+      color: #e5e4e5;
+      letter-spacing: 0.9px;
+      font-size: 13px; }
+    .cover .cover-btn {
+      padding: 0px;
+      margin: 0px 0px 0px 0px; }
+      .cover .cover-btn a {
+        padding: 1px 4px !important;
+        border: 1px solid;
+        font-size: 6px;
+        line-height: 15px; } }
+@media screen and (max-width: 1600px) and (min-width: 990px) {
+  .parallax {
+    padding-top: 1px; }
+
+  .cover {
+    padding-top: 208px; }
+    .cover p {
+      font-size: 24px;
+      line-height: 45px; } }
+@media screen and (max-width: 990px) and (min-width: 501px) {
+  .parallax {
+    padding-top: 40px;
+    min-height: 342px;
+    margin-top: 63px; }
+
+  .cover {
+    padding-top: 73px;
+    padding-bottom: 33px; }
+    .cover h2 {
+      font-size: 30px;
+      line-height: 47px; }
+    .cover p {
+      line-height: 22px;
+      font-weight: 300;
+      color: #e5e4e5;
+      letter-spacing: 0.9px;
+      font-size: 13px; }
+    .cover .cover-btn {
+      padding: 0px;
+      margin: 0px 0px 0px 0px; }
+      .cover .cover-btn a {
+        padding: 6px 12px !important;
+        border: 1px solid;
+        font-size: 9px;
+        line-height: 18px; } }

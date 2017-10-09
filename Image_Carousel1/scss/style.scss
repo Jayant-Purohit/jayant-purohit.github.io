@@ -1,0 +1,57 @@
+body{
+	margin : 0 auto;
+}
+
+.caroiusel-cnt{
+	overflow: hidden;
+    margin: 0 auto;
+    max-width: 500px;
+    position: relative;
+
+
+	.img-ul{
+		width: 10000px;
+	    padding: 0;
+	    position: relative;
+	    margin: 0;
+	    left: 0px;
+	    -webkit-transition: all 0.2s ease;
+	    margin-left: 0px;
+	    left: -500px;
+
+	}
+
+	.c-left{
+		left: 0;	
+	}
+
+	.c-right{
+		float: right;
+	 	right: 0;
+	    text-align: right;
+	}
+
+
+	.c-left, .c-right{
+		top: 50%;
+	    display: inline-block;
+	    cursor: pointer;
+	    position: absolute;
+	    font-size: 24px;
+	    font-weight: bold;
+	    margin-top: -12px;
+	}
+}
+.img-li{
+	width: 450px;
+    list-style: none;
+    margin: 30px 25px;
+    img {
+    	width: 100%;
+    	height: auto;
+    }
+}
+.row-ul{
+	 margin-right: -15px;
+    /*margin-left: -15px; */
+}

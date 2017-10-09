@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap",
+  "authors": [
+    "jayant"
+  ],
+  "description": "testpackage",
+  "main": "index.html",
+  "keywords": [
+    "jquery",
+    "java",
+    "json",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}

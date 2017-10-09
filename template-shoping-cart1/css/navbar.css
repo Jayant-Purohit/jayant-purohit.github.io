@@ -1,0 +1,35 @@
+.topnav {
+    background-color:black;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+.nav-span {
+       padding-left: 52px;
+    padding-right: 22px;
+    float: left;
+    padding-top: 3px;
+    }
+.nav-span-img{
+     height: 43px;
+    width: 132px;
+    }
